@@ -1,3 +1,3 @@
-module github.com/StephenGriese/goprojects/bpil
+module github.com/StephenGriese/junk/bpil
 
 go 1.19

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	kitty "github.com/StephenGriese/goprojects/kitty"
+	kitty "github.com/StephenGriese/junk/kitty"
 )
 
 func main() {

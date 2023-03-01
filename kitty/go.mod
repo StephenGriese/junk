@@ -1,3 +1,3 @@
-module github.com/StephenGriese/goprojects/kitty
+module github.com/StephenGriese/junk/kitty
 
 go 1.19
